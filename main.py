@@ -4,9 +4,9 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Global Variables
-email = "harsxit04@gmail.com"
-passcode = "@Harshit1308"
-number = "7898590844"
+email = YOUR EMAIL ADRESS
+passcode = YOUR LINKED IN PASSWORD
+number = YOUR PHONE NUMBER 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 
